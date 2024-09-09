@@ -1,4 +1,4 @@
-Em Busca da Cidade Perdida 🧭
+Em Busca de Hogwarts 🧭
 Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuária toma decisões que influenciam o rumo da história. O objetivo é encontrar uma cidade perdida seguindo pistas em uma carta antiga.
 
 Funcionalidades
@@ -19,4 +19,4 @@ Sugestões de melhoria para o futuro
 Implementar mais imagens e efeitos sonoros nos pontos para tornar a experiência mais imersiva.
 Criar mais ramificações na história, adicionando mais escolhas e finais ✨
 Deixar o projeto mais acessível para dispositivos móveis.
-Divirta-se em busca da cidade perdida! 🛝
+Divirta-se em busca de Hogwarts! 🛝
